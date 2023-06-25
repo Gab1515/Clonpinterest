@@ -33,7 +33,7 @@ main{
 
 #header-left-section{
     height: 70%;
-    width: 70%;
+    width: 20%;
     display: flex;
     align-items: center;
     justify-content: space-around;
@@ -51,7 +51,7 @@ main{
 
 #header-right-section{
     height: 70%;
-    width: 70%;
+    width: 15%;
     display: flex;
     align-items: center;
     justify-content: space-around;
@@ -75,7 +75,29 @@ main{
 }
 
 .galery1{
+
     border-radius: 25px;
     object-fit: cover;
-    height: 500px;
+    height: 270px;
+}
+
+.galery2{
+    border-radius: 30px;
+    object-fit: cover;
+    height: 280px;
+
+}
+
+.galery3{
+    border-radius: 20px;
+    object-fit: cover;
+    height: 280px;
+
+}
+
+.galery4{
+    border-radius: 35px;
+    object-fit: cover;
+    height: 270px;
+
 }
